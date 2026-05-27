@@ -1,0 +1,501 @@
+Customer_ID,Customer_Name,Gender,Age,City,State,Registration_Date,Customer_Segment,Income_Level,Customer_Status,Preferred_Payment_Method
+C0001,Yuvraj  Buch,Male,34,Bengaluru,Karnataka,2023-07-24,Regular,Medium,Active,UPI
+C0002,Faiyaz Chakraborty,Female,48,Chennai,Tamil Nadu,2023-09-18,Regular,Medium,Active,Cash on Delivery
+C0003,Darshit Sekhon,Male,49,Bengaluru,Karnataka,2025-07-17,Regular,Low,Active,UPI
+C0004,Purab Dutt,Female,56,Chennai,Tamil Nadu,2025-10-03,Regular,Medium,Active,UPI
+C0005,Tejas Sahni,Female,32,Chennai,Tamil Nadu,2023-10-29,Regular,Medium,Active,Net Banking
+C0006,Adah Mane,Female,19,Hyderabad,Telangana,2024-02-01,Regular,Medium,Active,UPI
+C0007,Rhea Devi,Male,42,Hyderabad,Telangana,2026-01-18,Regular,High,Active,Credit Card
+C0008,Veer Deep,Male,51,Chennai,Tamil Nadu,2024-08-04,Regular,Medium,Active,Credit Card
+C0009,Mohanlal Bains,Female,53,Chennai,Tamil Nadu,2026-05-17,Regular,Medium,Active,Credit Card
+C0010,Darshit Cheema,Male,32,Mumbai,Maharashtra,2026-01-12,Regular,Low,Active,Cash on Delivery
+C0011,Samiha Ranganathan,Male,44,Mumbai,Maharashtra,2023-12-14,Premium,High,Active,Net Banking
+C0012,Yakshit Kannan,Male,58,Hyderabad,Telangana,2025-03-12,Regular,Medium,Active,Debit Card
+C0013,Abram Mangal,Female,50,Hyderabad,Telangana,2024-11-05,Premium,High,Active,Cash on Delivery
+C0014,Lakshay Buch,Female,36,Bengaluru,Karnataka,2024-01-03,Regular,Low,Active,Net Banking
+C0015,Mannat Brar,Female,55,Chennai,Tamil Nadu,2025-12-28,Regular,High,Active,UPI
+C0016,Raghav Iyer,Male,43,Chennai,Tamil Nadu,2024-01-20,Regular,Medium,Active,Cash on Delivery
+C0017,Samar Sridhar,Female,53,Bengaluru,Karnataka,2026-03-26,VIP,High,Active,Debit Card
+C0018,Nehmat Bhandari,Female,60,Hyderabad,Telangana,2025-12-31,Regular,Medium,Active,Net Banking
+C0019,Ehsaan Dutta,Male,51,Hyderabad,Telangana,2026-01-30,Premium,Low,Active,Cash on Delivery
+C0020,Damini Loyal,Female,19,Mumbai,Maharashtra,2026-04-25,Premium,High,Active,Cash on Delivery
+C0021,Ehsaan Dora,Female,57,Hyderabad,Telangana,2025-09-13,Premium,Low,Active,Net Banking
+C0022,Ela Khanna,Male,28,Chennai,Tamil Nadu,2024-11-12,Premium,Low,Active,Net Banking
+C0023,Zoya Swaminathan,Male,30,Bengaluru,Karnataka,2025-05-12,Regular,High,Active,Net Banking
+C0024,Ranbir Khalsa,Female,50,Bengaluru,Karnataka,2024-02-17,Regular,Low,Active,Debit Card
+C0025,Sahil Ramesh,Female,35,Mumbai,Maharashtra,2023-11-15,Regular,Low,Active,Net Banking
+C0026,Krish Walla,Female,50,Hyderabad,Telangana,2025-11-18,Premium,Low,Active,Credit Card
+C0027,Bhavin Sekhon,Female,21,Bengaluru,Karnataka,2023-07-12,Regular,Medium,Active,Cash on Delivery
+C0028,Rasha Basu,Male,50,Mumbai,Maharashtra,2023-11-19,Regular,Medium,Active,Cash on Delivery
+C0029,Divyansh Deol,Female,44,Chennai,Tamil Nadu,2025-08-29,Regular,Medium,Active,Debit Card
+C0030,Riaan Bansal,Female,47,Hyderabad,Telangana,2024-07-22,Premium,Low,Active,Net Banking
+C0031,Himmat Bath,Male,58,Hyderabad,Telangana,2026-02-25,Regular,Medium,Active,Credit Card
+C0032,Parinaaz Buch,Male,53,Bengaluru,Karnataka,2024-04-15,Regular,Low,Active,Debit Card
+C0033,Umang Balan,Male,23,Hyderabad,Telangana,2023-08-11,Regular,Medium,Active,UPI
+C0034,Hiran Shanker,Male,35,Chennai,Tamil Nadu,2025-11-21,Regular,High,Active,Credit Card
+C0035,Zain Khalsa,Male,57,Mumbai,Maharashtra,2025-09-26,Regular,High,Active,Credit Card
+C0036,Mehul Raja,Female,22,Mumbai,Maharashtra,2024-09-03,Regular,Low,Active,Credit Card
+C0037,Aarush Ahluwalia,Female,51,Bengaluru,Karnataka,2026-05-09,Premium,Medium,Active,Credit Card
+C0038,Divyansh Dalal,Female,47,Mumbai,Maharashtra,2025-05-09,Regular,High,Active,Debit Card
+C0039,Damini Bora,Female,25,Chennai,Tamil Nadu,2023-07-02,Regular,Medium,Active,UPI
+C0040,Madhav Bail,Female,39,Mumbai,Maharashtra,2025-05-26,Premium,High,Active,Cash on Delivery
+C0041,Azad Swaminathan,Female,24,Bengaluru,Karnataka,2023-06-14,Premium,Medium,Active,Debit Card
+C0042,Vidur Bedi,Female,19,Bengaluru,Karnataka,2024-07-22,Regular,Low,Active,Credit Card
+C0043,Kiara Ahuja,Female,27,Hyderabad,Telangana,2024-04-10,Premium,Medium,Active,UPI
+C0044,Hazel Verma,Female,50,Bengaluru,Karnataka,2025-03-27,VIP,High,Active,Cash on Delivery
+C0045,Jiya Madan,Female,32,Bengaluru,Karnataka,2024-03-02,Regular,High,Active,Net Banking
+C0046,Hiran Chopra,Female,54,Hyderabad,Telangana,2024-02-07,Regular,Medium,Active,Debit Card
+C0047,Vanya Bhatti,Male,37,Chennai,Tamil Nadu,2026-03-30,Regular,Low,Active,Credit Card
+C0048,Myra Keer,Male,37,Bengaluru,Karnataka,2024-01-17,VIP,Medium,Active,UPI
+C0049,Charvi Batra,Female,37,Hyderabad,Telangana,2024-12-13,Premium,Medium,Active,Credit Card
+C0050,Zaina Jha,Female,26,Chennai,Tamil Nadu,2023-12-24,Regular,High,Active,UPI
+C0051,Lakshay Amble,Male,54,Hyderabad,Telangana,2025-01-24,Regular,High,Active,Cash on Delivery
+C0052,Samiha Walia,Male,42,Bengaluru,Karnataka,2025-03-22,Premium,Low,Active,Credit Card
+C0053,Arnav Dutta,Male,31,Mumbai,Maharashtra,2025-01-24,VIP,High,Active,Net Banking
+C0054,Kashvi Baria,Male,49,Chennai,Tamil Nadu,2024-05-15,Regular,Low,Active,UPI
+C0055,Eva Dara,Female,50,Chennai,Tamil Nadu,2024-01-29,VIP,Medium,Active,Cash on Delivery
+C0056,Myra Kulkarni,Female,57,Hyderabad,Telangana,2024-07-01,Premium,Medium,Active,Cash on Delivery
+C0057,Eva Chaudhuri,Male,28,Mumbai,Maharashtra,2026-04-11,VIP,Medium,Active,Credit Card
+C0058,Dhanuk Solanki,Male,39,Mumbai,Maharashtra,2025-07-27,Regular,Low,Active,Cash on Delivery
+C0059,Mamooty Dayal,Female,24,Bengaluru,Karnataka,2025-04-12,Regular,Low,Active,Cash on Delivery
+C0060,Jayesh Thaker,Female,52,Mumbai,Maharashtra,2025-05-04,Premium,Medium,Active,Credit Card
+C0061,Shalv Loyal,Male,23,Hyderabad,Telangana,2023-06-10,Regular,High,Active,Credit Card
+C0062,Abram Chhabra,Male,52,Bengaluru,Karnataka,2025-09-06,Regular,Low,Active,Credit Card
+C0063,Vardaniya Kapur,Female,56,Mumbai,Maharashtra,2026-03-02,Regular,High,Active,Net Banking
+C0064,Divyansh Sagar,Female,39,Mumbai,Maharashtra,2023-11-23,Regular,Low,Active,Debit Card
+C0065,Piya Dutta,Female,33,Hyderabad,Telangana,2025-10-08,Premium,Low,Active,Net Banking
+C0066,Tushar Rana,Male,55,Chennai,Tamil Nadu,2024-11-11,Premium,Medium,Active,Net Banking
+C0067,Sumer Wali,Female,20,Hyderabad,Telangana,2025-07-21,Premium,Medium,Active,Cash on Delivery
+C0068,Kashvi Thakur,Female,27,Hyderabad,Telangana,2025-06-12,Regular,Low,Active,Credit Card
+C0069,Pihu Thaker,Male,57,Mumbai,Maharashtra,2025-10-15,Regular,Low,Active,Net Banking
+C0070,Raghav Krishnamurthy,Male,54,Chennai,Tamil Nadu,2023-11-04,Regular,Low,Active,Net Banking
+C0071,Yuvaan Chatterjee,Male,35,Bengaluru,Karnataka,2025-09-13,Regular,Medium,Active,Debit Card
+C0072,Lakshit Roy,Male,47,Mumbai,Maharashtra,2026-05-20,Regular,Low,Active,Debit Card
+C0073,Parinaaz Srinivas,Male,36,Hyderabad,Telangana,2026-04-12,Regular,High,Active,UPI
+C0074,Shayak Kumer,Male,44,Hyderabad,Telangana,2024-01-16,Regular,Low,Active,UPI
+C0075,Tushar Dutt,Male,33,Hyderabad,Telangana,2026-04-06,Regular,Medium,Active,Net Banking
+C0076,Bhamini Bala,Male,25,Chennai,Tamil Nadu,2025-08-03,Regular,Medium,Active,Cash on Delivery
+C0077,Akarsh Sathe,Male,28,Bengaluru,Karnataka,2026-05-02,VIP,High,Active,UPI
+C0078,Aayush Kari,Female,52,Chennai,Tamil Nadu,2025-07-22,Regular,Medium,Active,Debit Card
+C0079,Divyansh Agarwal,Female,38,Mumbai,Maharashtra,2026-01-10,Premium,Low,Active,UPI
+C0080,Azad Wali,Female,20,Bengaluru,Karnataka,2024-07-13,Regular,Low,Active,UPI
+C0081,Sahil Loyal,Female,56,Hyderabad,Telangana,2023-11-19,Regular,Medium,Active,Debit Card
+C0082,Aayush Chana,Female,38,Chennai,Tamil Nadu,2023-09-04,Regular,Medium,Active,Cash on Delivery
+C0083,Shray Saha,Male,38,Hyderabad,Telangana,2024-12-26,VIP,High,Active,Net Banking
+C0084,Hiran Srivastava,Male,34,Chennai,Tamil Nadu,2026-02-26,Regular,Medium,Active,Credit Card
+C0085,Mamooty Khurana,Female,34,Chennai,Tamil Nadu,2026-04-27,Premium,Low,Active,Credit Card
+C0086,Hiran Varma,Female,30,Bengaluru,Karnataka,2023-10-23,Regular,Medium,Active,Credit Card
+C0087,Nakul Anne,Male,35,Mumbai,Maharashtra,2024-01-27,Premium,Low,Active,UPI
+C0088,Heer Gulati,Male,59,Chennai,Tamil Nadu,2025-01-13,Premium,Low,Active,Net Banking
+C0089,Priyansh Keer,Male,42,Mumbai,Maharashtra,2024-04-11,Regular,High,Active,Debit Card
+C0090,Jivin Balan,Female,29,Hyderabad,Telangana,2023-12-26,Regular,Medium,Active,Debit Card
+C0091,Drishya Sarin,Male,39,Mumbai,Maharashtra,2025-09-06,Regular,High,Active,UPI
+C0092,Anvi Dhaliwal,Male,32,Hyderabad,Telangana,2025-05-08,Regular,Low,Active,UPI
+C0093,Saksham Bhandari,Female,22,Bengaluru,Karnataka,2026-02-09,Premium,Medium,Active,Debit Card
+C0094,Madhup Raja,Male,19,Hyderabad,Telangana,2025-08-07,VIP,Medium,Active,UPI
+C0095,Vedika Sabharwal,Female,49,Mumbai,Maharashtra,2025-11-23,Regular,Medium,Active,Cash on Delivery
+C0096,Eshani Bath,Male,50,Bengaluru,Karnataka,2025-10-23,VIP,High,Active,Debit Card
+C0097,Samar Sagar,Male,29,Hyderabad,Telangana,2025-09-18,VIP,High,Active,Credit Card
+C0098,Mishti Maharaj,Female,37,Bengaluru,Karnataka,2025-12-04,Regular,Medium,Active,UPI
+C0099,Vedika Ram,Male,31,Mumbai,Maharashtra,2023-08-19,Regular,High,Active,Credit Card
+C0100,Zoya Dhingra,Female,57,Hyderabad,Telangana,2023-12-22,VIP,High,Active,Net Banking
+C0101,Miraan Bahl,Male,37,Bengaluru,Karnataka,2024-06-12,Regular,Low,Active,Cash on Delivery
+C0102,Nitara Mahal,Male,60,Bengaluru,Karnataka,2025-01-30,Regular,Medium,Active,Credit Card
+C0103,Badal Sinha,Male,46,Mumbai,Maharashtra,2024-11-03,Regular,High,Active,Cash on Delivery
+C0104,Adah Brahmbhatt,Female,52,Mumbai,Maharashtra,2024-06-02,Premium,Low,Active,Cash on Delivery
+C0105,Alisha Bahl,Female,39,Hyderabad,Telangana,2026-02-04,Regular,Medium,Active,Credit Card
+C0106,Hansh Dani,Female,19,Mumbai,Maharashtra,2025-11-02,Regular,High,Active,Cash on Delivery
+C0107,Ehsaan Chandran,Male,40,Hyderabad,Telangana,2024-08-28,Regular,High,Active,Net Banking
+C0108,Armaan Rao,Male,26,Bengaluru,Karnataka,2024-02-19,Regular,High,Active,Debit Card
+C0109,Abram Kaul,Female,54,Mumbai,Maharashtra,2025-02-24,Premium,High,Active,Cash on Delivery
+C0110,Miraya Dutt,Male,32,Bengaluru,Karnataka,2025-06-19,Regular,Medium,Active,Cash on Delivery
+C0111,Trisha Roy,Male,51,Hyderabad,Telangana,2025-07-19,Premium,Low,Active,Debit Card
+C0112,Fateh Basak,Male,33,Chennai,Tamil Nadu,2025-12-15,Regular,Medium,Active,Debit Card
+C0113,Taran Halder,Female,32,Chennai,Tamil Nadu,2024-11-20,Regular,Medium,Active,Cash on Delivery
+C0114,Trisha Dalal,Female,59,Mumbai,Maharashtra,2025-02-07,Regular,High,Active,Credit Card
+C0115,Raghav Dube,Male,50,Hyderabad,Telangana,2026-04-06,Regular,High,Active,Debit Card
+C0116,Hansh Raju,Male,37,Bengaluru,Karnataka,2024-12-14,Regular,Low,Active,Debit Card
+C0117,Rhea Sinha,Female,28,Mumbai,Maharashtra,2024-02-22,Premium,Medium,Active,Cash on Delivery
+C0118,Yuvraj  Raja,Male,56,Hyderabad,Telangana,2025-11-12,Regular,Medium,Active,Net Banking
+C0119,Emir Anne,Male,27,Chennai,Tamil Nadu,2025-10-17,Premium,High,Active,Debit Card
+C0120,Vaibhav Date,Male,54,Chennai,Tamil Nadu,2026-01-24,Regular,High,Active,UPI
+C0121,Rhea Rama,Female,58,Chennai,Tamil Nadu,2024-01-04,Regular,High,Active,Debit Card
+C0122,Alia Chowdhury,Male,52,Chennai,Tamil Nadu,2025-02-15,Premium,High,Active,UPI
+C0123,Prerak Warrior,Female,58,Hyderabad,Telangana,2025-12-30,Regular,Medium,Active,UPI
+C0124,Kismat Madan,Male,26,Mumbai,Maharashtra,2024-08-15,Regular,Medium,Active,Net Banking
+C0125,Miraya Chacko,Female,33,Hyderabad,Telangana,2024-04-24,Premium,High,Active,Cash on Delivery
+C0126,Keya Sankaran,Female,28,Chennai,Tamil Nadu,2024-04-23,Premium,Medium,Active,Debit Card
+C0127,Umang Gade,Male,57,Chennai,Tamil Nadu,2025-10-30,Premium,Medium,Active,Cash on Delivery
+C0128,Yuvraj  Kuruvilla,Male,45,Bengaluru,Karnataka,2023-11-02,Premium,Medium,Active,Net Banking
+C0129,Azad Shetty,Male,60,Chennai,Tamil Nadu,2024-06-23,Regular,Medium,Active,Debit Card
+C0130,Siya Kar,Male,42,Mumbai,Maharashtra,2026-04-12,Regular,Medium,Active,Net Banking
+C0131,Shamik Krish,Male,51,Hyderabad,Telangana,2025-11-07,Premium,Medium,Active,Cash on Delivery
+C0132,Devansh Kaur,Male,58,Hyderabad,Telangana,2024-05-02,VIP,Medium,Active,Net Banking
+C0133,Priyansh Koshy,Female,31,Bengaluru,Karnataka,2024-01-20,Regular,Medium,Active,Credit Card
+C0134,Nitya Chatterjee,Male,52,Mumbai,Maharashtra,2023-07-12,Premium,High,Active,Credit Card
+C0135,Yashvi Rege,Female,55,Mumbai,Maharashtra,2025-07-21,VIP,High,Active,Debit Card
+C0136,Emir Kapur,Male,52,Chennai,Tamil Nadu,2024-10-17,Regular,High,Active,Debit Card
+C0137,Nakul Chaudry,Female,25,Chennai,Tamil Nadu,2024-04-30,Regular,High,Active,Credit Card
+C0138,Hiran Tailor,Male,36,Chennai,Tamil Nadu,2025-09-08,Regular,Medium,Active,UPI
+C0139,Ranbir Bhardwaj,Male,54,Hyderabad,Telangana,2025-09-25,Regular,Medium,Active,UPI
+C0140,Vedika Mammen,Male,22,Mumbai,Maharashtra,2024-07-22,Regular,Medium,Active,Net Banking
+C0141,Aarush Barad,Female,45,Mumbai,Maharashtra,2025-08-17,Regular,Low,Active,Net Banking
+C0142,Taran Mallick,Female,18,Mumbai,Maharashtra,2023-08-14,Regular,Low,Active,UPI
+C0143,Jiya Dara,Female,40,Chennai,Tamil Nadu,2023-10-28,VIP,High,Active,Debit Card
+C0144,Jayant Mand,Female,54,Chennai,Tamil Nadu,2024-12-30,Premium,Medium,Active,Cash on Delivery
+C0145,Advik Sha,Female,42,Hyderabad,Telangana,2025-06-29,Regular,Low,Active,Credit Card
+C0146,Neysa Jain,Female,58,Hyderabad,Telangana,2026-01-02,Regular,Medium,Active,Net Banking
+C0147,Diya Chowdhury,Female,56,Bengaluru,Karnataka,2023-09-27,Regular,Medium,Active,Net Banking
+C0148,Jayan Devan,Female,28,Chennai,Tamil Nadu,2024-11-01,Regular,High,Active,Cash on Delivery
+C0149,Saksham Hari,Female,51,Bengaluru,Karnataka,2025-01-25,VIP,Medium,Active,UPI
+C0150,Vaibhav Jha,Female,43,Chennai,Tamil Nadu,2024-05-16,Regular,Medium,Active,Debit Card
+C0151,Vihaan Biswas,Female,33,Hyderabad,Telangana,2026-05-20,Premium,Low,Active,Debit Card
+C0152,Eva Kade,Female,58,Hyderabad,Telangana,2024-08-26,Regular,High,Active,Credit Card
+C0153,Riya Varty,Female,29,Chennai,Tamil Nadu,2024-12-09,Regular,Medium,Active,UPI
+C0154,Aradhya Sengupta,Female,34,Hyderabad,Telangana,2025-03-04,Regular,Low,Active,Cash on Delivery
+C0155,Anaya Roy,Male,47,Mumbai,Maharashtra,2025-05-27,Regular,Medium,Active,Debit Card
+C0156,Ahana  Sahni,Male,47,Chennai,Tamil Nadu,2025-11-18,Regular,Medium,Active,Net Banking
+C0157,Aarush Saha,Female,50,Hyderabad,Telangana,2026-04-01,Regular,Medium,Active,UPI
+C0158,Armaan Chad,Male,40,Chennai,Tamil Nadu,2026-02-10,Regular,Medium,Active,UPI
+C0159,Alisha Wason,Male,28,Chennai,Tamil Nadu,2024-02-08,Regular,Medium,Active,Net Banking
+C0160,Divit Verma,Male,43,Bengaluru,Karnataka,2024-02-18,Premium,Low,Active,Debit Card
+C0161,Vaibhav Kata,Male,51,Mumbai,Maharashtra,2024-02-27,Regular,High,Active,Credit Card
+C0162,Suhana Sama,Female,35,Bengaluru,Karnataka,2025-03-29,Premium,Medium,Active,UPI
+C0163,Jayant Mannan,Female,47,Hyderabad,Telangana,2025-04-14,Premium,High,Active,Net Banking
+C0164,Siya Chaudhry,Male,37,Hyderabad,Telangana,2025-08-06,Premium,High,Active,Net Banking
+C0165,Charvi Dugar,Female,57,Mumbai,Maharashtra,2025-11-22,Regular,Medium,Active,Credit Card
+C0166,Chirag Guha,Female,29,Chennai,Tamil Nadu,2026-02-10,Premium,Medium,Active,Cash on Delivery
+C0167,Advik Dugar,Female,32,Mumbai,Maharashtra,2024-07-26,Premium,Low,Active,Debit Card
+C0168,Drishya Doshi,Male,57,Bengaluru,Karnataka,2025-07-29,Premium,Medium,Active,Cash on Delivery
+C0169,Manjari Balan,Female,33,Mumbai,Maharashtra,2024-04-08,Regular,Low,Active,Debit Card
+C0170,Mahika Barman,Male,58,Bengaluru,Karnataka,2025-06-09,Premium,Medium,Active,Credit Card
+C0171,Tarini Mallick,Male,56,Chennai,Tamil Nadu,2023-09-03,Premium,Medium,Active,Debit Card
+C0172,Aradhya Kadakia,Male,26,Chennai,Tamil Nadu,2025-10-27,Premium,High,Active,Credit Card
+C0173,Ahana  Bhatia,Female,37,Chennai,Tamil Nadu,2024-10-26,Regular,Low,Active,Cash on Delivery
+C0174,Ira Behl,Male,31,Bengaluru,Karnataka,2025-07-04,VIP,High,Active,Debit Card
+C0175,Yuvaan Suri,Male,32,Hyderabad,Telangana,2026-01-04,Premium,High,Active,Cash on Delivery
+C0176,Lakshit Anand,Female,24,Mumbai,Maharashtra,2023-09-15,Regular,Medium,Active,Credit Card
+C0177,Indranil Sankar,Male,56,Hyderabad,Telangana,2024-02-24,Regular,Medium,Active,UPI
+C0178,Samarth Choudhary,Male,49,Bengaluru,Karnataka,2023-09-08,Regular,Low,Active,Net Banking
+C0179,Aarush Issac,Female,60,Chennai,Tamil Nadu,2023-08-02,Premium,Low,Active,Debit Card
+C0180,Jayan Bora,Male,24,Hyderabad,Telangana,2025-12-31,Regular,High,Active,Credit Card
+C0181,Neelofar Shenoy,Male,49,Chennai,Tamil Nadu,2024-09-24,Premium,Medium,Active,Cash on Delivery
+C0182,Heer Barad,Male,32,Chennai,Tamil Nadu,2025-09-23,Regular,Medium,Active,Credit Card
+C0183,Anya Tank,Female,53,Mumbai,Maharashtra,2026-05-02,Regular,High,Active,Net Banking
+C0184,Diya Bhat,Male,46,Chennai,Tamil Nadu,2025-02-19,Regular,Low,Active,Debit Card
+C0185,Suhana Sachar,Female,55,Mumbai,Maharashtra,2023-10-07,Regular,Medium,Active,UPI
+C0186,Sana Sarraf,Male,20,Bengaluru,Karnataka,2024-06-19,Regular,Low,Active,UPI
+C0187,Jayesh Sur,Female,38,Hyderabad,Telangana,2025-08-06,Regular,Low,Active,Cash on Delivery
+C0188,Dhruv Chawla,Male,43,Mumbai,Maharashtra,2023-12-19,Premium,Low,Active,Credit Card
+C0189,Mohanlal Madan,Male,18,Bengaluru,Karnataka,2025-01-07,Regular,Medium,Active,Cash on Delivery
+C0190,Riya Tara,Male,54,Bengaluru,Karnataka,2025-03-08,Premium,Medium,Active,Cash on Delivery
+C0191,Divyansh Hari,Male,23,Mumbai,Maharashtra,2026-03-05,Premium,Medium,Active,Cash on Delivery
+C0192,Tara Goel,Male,20,Mumbai,Maharashtra,2026-03-26,Regular,High,Active,Net Banking
+C0193,Nayantara Roy,Male,20,Hyderabad,Telangana,2025-09-14,Premium,Low,Active,Debit Card
+C0194,Ranbir Sharma,Female,23,Hyderabad,Telangana,2025-06-18,Premium,Medium,Active,Credit Card
+C0195,Veer Cherian,Female,58,Hyderabad,Telangana,2025-09-19,VIP,High,Active,Credit Card
+C0196,Anay Vora,Male,60,Mumbai,Maharashtra,2024-06-15,Regular,Medium,Active,Cash on Delivery
+C0197,Indrans Sane,Female,58,Chennai,Tamil Nadu,2025-06-20,Regular,Medium,Active,Debit Card
+C0198,Vidur Ramesh,Male,33,Mumbai,Maharashtra,2023-12-26,Premium,Medium,Active,UPI
+C0199,Hrishita Chander,Female,45,Bengaluru,Karnataka,2024-08-20,Premium,Medium,Active,Net Banking
+C0200,Navya Sachdeva,Female,53,Hyderabad,Telangana,2024-12-23,Premium,Medium,Active,Cash on Delivery
+C0201,Anahi Varkey,Female,60,Bengaluru,Karnataka,2025-11-08,Premium,Medium,Active,UPI
+C0202,Bhamini Ahluwalia,Male,34,Mumbai,Maharashtra,2023-09-17,Regular,Low,Active,Credit Card
+C0203,Zeeshan Sandal,Male,21,Hyderabad,Telangana,2024-04-05,Regular,Low,Active,Credit Card
+C0204,Umang Kota,Male,21,Chennai,Tamil Nadu,2025-04-07,Regular,Low,Active,UPI
+C0205,Indrajit Banerjee,Female,24,Chennai,Tamil Nadu,2024-11-15,Regular,Medium,Active,Debit Card
+C0206,Myra Toor,Male,52,Hyderabad,Telangana,2023-09-28,Regular,Medium,Active,UPI
+C0207,Neysa Chhabra,Male,43,Chennai,Tamil Nadu,2024-09-02,Regular,Medium,Active,Cash on Delivery
+C0208,Aarush Guha,Female,23,Hyderabad,Telangana,2025-03-08,Regular,Medium,Active,Debit Card
+C0209,Prisha Dixit,Male,37,Mumbai,Maharashtra,2024-04-23,Premium,Medium,Active,UPI
+C0210,Vivaan Dayal,Male,34,Chennai,Tamil Nadu,2025-01-19,VIP,High,Active,Debit Card
+C0211,Armaan Mahal,Female,42,Bengaluru,Karnataka,2026-03-24,Regular,Medium,Active,UPI
+C0212,Pihu Sarin,Male,45,Mumbai,Maharashtra,2023-07-23,Regular,Medium,Active,Credit Card
+C0213,Tanya Dave,Female,39,Bengaluru,Karnataka,2025-01-11,Regular,High,Active,Net Banking
+C0214,Shanaya Raman,Female,24,Chennai,Tamil Nadu,2023-10-09,VIP,High,Active,Credit Card
+C0215,Anay Randhawa,Male,36,Chennai,Tamil Nadu,2026-05-07,Regular,Low,Active,Credit Card
+C0216,Hansh Sarraf,Female,42,Bengaluru,Karnataka,2025-02-06,Regular,Medium,Active,Net Banking
+C0217,Divit Bava,Male,44,Mumbai,Maharashtra,2024-06-26,VIP,High,Active,Debit Card
+C0218,Himmat Rajagopalan,Male,20,Bengaluru,Karnataka,2026-02-21,Premium,High,Active,Debit Card
+C0219,Samarth Talwar,Female,37,Mumbai,Maharashtra,2024-02-03,Regular,Low,Active,Debit Card
+C0220,Veer Jaggi,Female,38,Mumbai,Maharashtra,2023-12-06,Regular,Low,Active,Net Banking
+C0221,Heer Ahluwalia,Male,27,Hyderabad,Telangana,2023-11-29,Premium,Low,Active,Debit Card
+C0222,Pari Jayaraman,Female,54,Mumbai,Maharashtra,2023-10-30,Regular,High,Active,UPI
+C0223,Umang Chand,Female,48,Chennai,Tamil Nadu,2025-09-03,Regular,High,Active,Cash on Delivery
+C0224,Onkar Saini,Female,23,Mumbai,Maharashtra,2025-08-09,Regular,Medium,Active,Net Banking
+C0225,Advik Rege,Male,21,Hyderabad,Telangana,2025-09-15,Regular,High,Active,Net Banking
+C0226,Biju Sunder,Female,33,Chennai,Tamil Nadu,2023-06-02,Regular,Medium,Active,Net Banking
+C0227,Shamik Divan,Female,59,Mumbai,Maharashtra,2024-01-02,Regular,High,Active,Debit Card
+C0228,Vaibhav Borde,Female,47,Chennai,Tamil Nadu,2023-05-27,Regular,Medium,Active,Net Banking
+C0229,Myra Bahri,Male,19,Mumbai,Maharashtra,2024-09-18,Premium,Low,Active,Credit Card
+C0230,Jivika Bera,Male,54,Mumbai,Maharashtra,2024-08-15,Regular,Medium,Active,Credit Card
+C0231,Baiju Dhar,Male,44,Hyderabad,Telangana,2023-11-16,Premium,Medium,Active,Net Banking
+C0232,Amani Bala,Male,52,Hyderabad,Telangana,2024-02-14,Premium,Medium,Active,Debit Card
+C0233,Seher Devan,Male,34,Hyderabad,Telangana,2025-01-21,Premium,Low,Active,UPI
+C0234,Shayak Chand,Male,31,Hyderabad,Telangana,2024-04-02,Regular,Medium,Active,Credit Card
+C0235,Kabir Bhavsar,Male,55,Chennai,Tamil Nadu,2024-01-21,Regular,Medium,Active,Debit Card
+C0236,Siya Arya,Female,32,Chennai,Tamil Nadu,2023-08-19,VIP,High,Active,Credit Card
+C0237,Rania Agarwal,Male,45,Chennai,Tamil Nadu,2024-08-24,Regular,High,Active,Cash on Delivery
+C0238,Aaryahi Bhasin,Male,48,Mumbai,Maharashtra,2026-05-14,VIP,High,Active,UPI
+C0239,Rhea Bose,Female,30,Mumbai,Maharashtra,2025-03-06,Regular,Low,Active,UPI
+C0240,Vihaan Buch,Female,22,Chennai,Tamil Nadu,2026-03-16,Regular,Medium,Active,Cash on Delivery
+C0241,Raghav Choudhry,Male,40,Chennai,Tamil Nadu,2024-07-30,Regular,Medium,Active,Cash on Delivery
+C0242,Jayant Shetty,Male,37,Hyderabad,Telangana,2025-12-18,Regular,High,Active,UPI
+C0243,Zaina Mand,Female,50,Hyderabad,Telangana,2024-04-04,Regular,Medium,Active,Debit Card
+C0244,Veer Jain,Female,52,Mumbai,Maharashtra,2024-09-07,Regular,Medium,Active,Net Banking
+C0245,Mohanlal Deshmukh,Female,46,Chennai,Tamil Nadu,2025-02-16,Regular,Low,Active,Debit Card
+C0246,Vidur Bandi,Female,55,Bengaluru,Karnataka,2025-07-03,Regular,Medium,Active,Credit Card
+C0247,Vardaniya Joshi,Female,58,Bengaluru,Karnataka,2025-11-03,Regular,Medium,Active,UPI
+C0248,Lakshit Dey,Male,41,Chennai,Tamil Nadu,2025-09-18,Regular,Medium,Active,Cash on Delivery
+C0249,Vivaan Dora,Female,60,Chennai,Tamil Nadu,2025-09-01,VIP,High,Active,UPI
+C0250,Lagan Mallick,Male,18,Hyderabad,Telangana,2024-12-26,VIP,High,Active,Cash on Delivery
+C0251,Himmat Sheth,Female,35,Mumbai,Maharashtra,2023-07-29,Regular,Low,Active,Debit Card
+C0252,Pranay Dugal,Female,42,Chennai,Tamil Nadu,2025-10-04,Regular,Medium,Active,Cash on Delivery
+C0253,Tara Shah,Female,40,Hyderabad,Telangana,2025-12-31,Regular,High,Active,Credit Card
+C0254,Vritika Kadakia,Male,19,Chennai,Tamil Nadu,2024-09-27,Regular,High,Active,Credit Card
+C0255,Kimaya Iyer,Female,26,Mumbai,Maharashtra,2024-05-29,Premium,High,Active,Net Banking
+C0256,Emir Kibe,Female,34,Mumbai,Maharashtra,2023-12-31,Premium,Medium,Active,Net Banking
+C0257,Shray Kashyap,Female,35,Mumbai,Maharashtra,2025-08-06,Regular,Low,Active,Cash on Delivery
+C0258,Nitya Kumar,Female,31,Mumbai,Maharashtra,2023-06-01,Regular,Medium,Active,Cash on Delivery
+C0259,Nirvaan Sachdev,Female,23,Chennai,Tamil Nadu,2025-04-09,Premium,Medium,Active,UPI
+C0260,Advika Acharya,Male,27,Bengaluru,Karnataka,2025-02-07,Regular,Low,Active,Credit Card
+C0261,Keya Biswas,Male,34,Hyderabad,Telangana,2023-07-24,Regular,Medium,Active,Credit Card
+C0262,Tanya Sem,Male,43,Chennai,Tamil Nadu,2026-01-07,Regular,High,Active,Credit Card
+C0263,Arhaan Tandon,Male,45,Hyderabad,Telangana,2023-07-10,Regular,Medium,Active,Net Banking
+C0264,Zara Master,Male,52,Hyderabad,Telangana,2026-03-27,Regular,Medium,Active,Cash on Delivery
+C0265,Kiaan Bandi,Male,59,Mumbai,Maharashtra,2025-04-05,Regular,Low,Active,UPI
+C0266,Nirvi Rao,Male,34,Chennai,Tamil Nadu,2025-02-28,Regular,Medium,Active,Debit Card
+C0267,Azad Lall,Female,21,Bengaluru,Karnataka,2025-07-08,Premium,Medium,Active,Credit Card
+C0268,Pari Sidhu,Female,25,Hyderabad,Telangana,2025-05-18,Regular,Low,Active,Cash on Delivery
+C0269,Tanya Subramanian,Female,43,Mumbai,Maharashtra,2024-12-15,Regular,High,Active,UPI
+C0270,Indrans Reddy,Male,27,Chennai,Tamil Nadu,2025-02-01,Regular,Medium,Active,Cash on Delivery
+C0271,Kartik Talwar,Male,51,Bengaluru,Karnataka,2024-06-24,Premium,Medium,Active,Debit Card
+C0272,Sahil Bawa,Female,49,Chennai,Tamil Nadu,2023-12-23,VIP,Medium,Active,Net Banking
+C0273,Romil Dave,Female,49,Bengaluru,Karnataka,2024-07-01,Regular,High,Active,UPI
+C0274,Lakshay Iyengar,Female,35,Hyderabad,Telangana,2024-04-06,Premium,Medium,Active,UPI
+C0275,Armaan Din,Female,24,Chennai,Tamil Nadu,2026-01-21,Premium,Medium,Active,Credit Card
+C0276,Advik Choudhury,Female,33,Mumbai,Maharashtra,2026-02-03,Regular,Medium,Active,Cash on Delivery
+C0277,Fateh Venkataraman,Male,34,Bengaluru,Karnataka,2025-03-13,Premium,Medium,Active,Credit Card
+C0278,Nehmat Date,Male,52,Chennai,Tamil Nadu,2025-09-11,Premium,Low,Active,Net Banking
+C0279,Vanya Kalita,Female,35,Bengaluru,Karnataka,2024-03-25,Premium,Low,Active,Debit Card
+C0280,Kashvi Kata,Female,35,Chennai,Tamil Nadu,2026-05-11,Premium,Medium,Active,Cash on Delivery
+C0281,Lakshit Samra,Female,41,Bengaluru,Karnataka,2025-01-06,Premium,Medium,Active,Net Banking
+C0282,Jivin Kade,Male,39,Chennai,Tamil Nadu,2026-05-10,Regular,Medium,Active,Credit Card
+C0283,Yashvi Karpe,Female,52,Bengaluru,Karnataka,2024-08-17,Regular,Medium,Active,Credit Card
+C0284,Mehul Kant,Female,51,Hyderabad,Telangana,2024-07-08,Premium,Low,Active,Credit Card
+C0285,Onkar Bhatti,Female,57,Bengaluru,Karnataka,2025-05-05,Regular,Low,Active,Cash on Delivery
+C0286,Kanav Bawa,Female,25,Chennai,Tamil Nadu,2023-11-16,Regular,Medium,Active,Credit Card
+C0287,Jayesh Bali,Female,32,Bengaluru,Karnataka,2024-10-24,Regular,Low,Active,UPI
+C0288,Arhaan Mall,Male,25,Hyderabad,Telangana,2025-10-23,Premium,Medium,Active,Credit Card
+C0289,Sara Sha,Female,45,Bengaluru,Karnataka,2025-04-27,Regular,Low,Active,Debit Card
+C0290,Yuvraj  Chawla,Male,37,Hyderabad,Telangana,2023-08-24,Regular,High,Active,Net Banking
+C0291,Kiaan Khare,Male,32,Bengaluru,Karnataka,2025-01-14,Premium,Medium,Active,Debit Card
+C0292,Arhaan Sanghvi,Female,56,Mumbai,Maharashtra,2024-01-28,Regular,High,Active,Net Banking
+C0293,Jayesh Mahal,Male,25,Chennai,Tamil Nadu,2025-07-14,Regular,High,Active,Debit Card
+C0294,Riaan Garg,Male,25,Mumbai,Maharashtra,2023-10-10,Premium,Medium,Active,Debit Card
+C0295,Tiya Krishnan,Male,40,Bengaluru,Karnataka,2026-03-19,Regular,High,Active,UPI
+C0296,Dhanush Bhatt,Male,37,Hyderabad,Telangana,2025-05-07,Regular,Low,Active,Debit Card
+C0297,Biju Bassi,Female,51,Bengaluru,Karnataka,2026-03-03,Regular,Medium,Active,UPI
+C0298,Vardaniya Choudhry,Male,23,Mumbai,Maharashtra,2023-09-09,Regular,Medium,Active,Credit Card
+C0299,Vritika Karnik,Female,58,Chennai,Tamil Nadu,2025-02-17,Regular,Medium,Active,Credit Card
+C0300,Jayant Biswas,Female,35,Hyderabad,Telangana,2024-05-05,Premium,Low,Active,UPI
+C0301,Dhanuk Kulkarni,Male,40,Mumbai,Maharashtra,2024-02-15,Premium,Medium,Active,Credit Card
+C0302,Charvi Saraf,Female,23,Mumbai,Maharashtra,2023-05-23,Premium,Medium,Active,Net Banking
+C0303,Advika Ganesan,Female,52,Chennai,Tamil Nadu,2026-05-14,Regular,Medium,Active,Cash on Delivery
+C0304,Dishani Char,Male,58,Mumbai,Maharashtra,2024-02-17,VIP,High,Active,Debit Card
+C0305,Chirag Bala,Male,56,Bengaluru,Karnataka,2025-12-05,Regular,High,Active,Net Banking
+C0306,Adah Goyal,Male,33,Hyderabad,Telangana,2025-01-09,Regular,Medium,Active,Credit Card
+C0307,Kashvi Sharaf,Female,52,Chennai,Tamil Nadu,2024-06-08,Regular,Low,Active,UPI
+C0308,Purab Ram,Female,51,Mumbai,Maharashtra,2025-10-20,VIP,High,Active,Debit Card
+C0309,Jhanvi Sant,Male,43,Chennai,Tamil Nadu,2024-03-20,Regular,Low,Active,UPI
+C0310,Eshani Varughese,Male,59,Mumbai,Maharashtra,2024-11-03,Regular,Low,Active,Net Banking
+C0311,Onkar Soni,Male,57,Mumbai,Maharashtra,2024-02-16,Regular,Low,Active,Debit Card
+C0312,Rhea Barman,Male,27,Chennai,Tamil Nadu,2025-01-31,Regular,Low,Active,UPI
+C0313,Kiara Saini,Male,48,Bengaluru,Karnataka,2025-01-08,Premium,Low,Active,Debit Card
+C0314,Ritvik Iyengar,Female,28,Mumbai,Maharashtra,2024-07-26,VIP,High,Active,Credit Card
+C0315,Taran Rajagopalan,Female,43,Chennai,Tamil Nadu,2025-02-02,Regular,Medium,Active,UPI
+C0316,Anahi Kala,Female,36,Bengaluru,Karnataka,2025-02-18,Regular,Medium,Active,Net Banking
+C0317,Amani Soman,Male,59,Hyderabad,Telangana,2024-07-03,Premium,Low,Active,Credit Card
+C0318,Jivin Dhaliwal,Male,47,Chennai,Tamil Nadu,2024-10-06,Regular,Low,Active,UPI
+C0319,Parinaaz Chahal,Female,35,Chennai,Tamil Nadu,2023-10-05,Premium,Medium,Active,Debit Card
+C0320,Akarsh Yadav,Female,56,Chennai,Tamil Nadu,2025-04-12,Regular,High,Active,Cash on Delivery
+C0321,Manikya Dubey,Male,48,Hyderabad,Telangana,2025-06-14,Regular,High,Active,UPI
+C0322,Alia Ramesh,Male,25,Hyderabad,Telangana,2024-09-12,Regular,Medium,Active,Net Banking
+C0323,Hunar Doshi,Female,53,Bengaluru,Karnataka,2024-09-11,Premium,Medium,Active,Debit Card
+C0324,Miraya Randhawa,Female,33,Mumbai,Maharashtra,2024-05-14,VIP,Medium,Active,Net Banking
+C0325,Umang Guha,Male,53,Bengaluru,Karnataka,2024-07-04,VIP,High,Active,Debit Card
+C0326,Raunak Gole,Male,20,Bengaluru,Karnataka,2025-10-15,Regular,Medium,Active,Debit Card
+C0327,Taimur Sodhi,Female,34,Chennai,Tamil Nadu,2024-05-21,Premium,Medium,Active,UPI
+C0328,Diya Mannan,Female,42,Chennai,Tamil Nadu,2025-06-04,Premium,Medium,Active,Debit Card
+C0329,Fateh Bhatti,Female,46,Mumbai,Maharashtra,2025-06-12,Premium,Medium,Active,Credit Card
+C0330,Shamik Aggarwal,Male,39,Bengaluru,Karnataka,2025-01-08,Premium,Low,Active,UPI
+C0331,Alisha Chaudhari,Female,39,Bengaluru,Karnataka,2024-10-07,Premium,High,Active,UPI
+C0332,Saanvi Rama,Female,31,Hyderabad,Telangana,2023-07-14,Regular,Low,Active,Cash on Delivery
+C0333,Tushar Kala,Female,32,Bengaluru,Karnataka,2024-02-19,Regular,Medium,Active,UPI
+C0334,Nitya Dewan,Female,39,Bengaluru,Karnataka,2026-05-09,Premium,Medium,Active,Credit Card
+C0335,Jayant Kibe,Female,41,Chennai,Tamil Nadu,2024-05-14,Regular,Low,Active,Cash on Delivery
+C0336,Ojas Lalla,Female,46,Bengaluru,Karnataka,2025-04-17,Regular,Medium,Active,Cash on Delivery
+C0337,Inaaya  Chaudry,Female,35,Hyderabad,Telangana,2025-03-19,Regular,Medium,Active,Credit Card
+C0338,Yakshit Sura,Male,42,Bengaluru,Karnataka,2024-02-18,Regular,High,Active,Cash on Delivery
+C0339,Kabir Batra,Male,59,Hyderabad,Telangana,2024-11-24,Regular,Medium,Active,UPI
+C0340,Fateh Lad,Female,42,Bengaluru,Karnataka,2024-04-30,Premium,Low,Active,Net Banking
+C0341,Divit Bakshi,Male,27,Mumbai,Maharashtra,2026-02-13,Regular,Medium,Active,Net Banking
+C0342,Rati Manda,Female,19,Hyderabad,Telangana,2026-03-30,Premium,High,Active,Cash on Delivery
+C0343,Sara Sahni,Male,52,Chennai,Tamil Nadu,2025-08-23,Regular,Medium,Active,Cash on Delivery
+C0344,Miraya Srivastava,Male,45,Hyderabad,Telangana,2025-01-02,Regular,Medium,Active,Credit Card
+C0345,Yuvaan Singh,Female,60,Bengaluru,Karnataka,2023-08-03,Regular,Medium,Active,Credit Card
+C0346,Onkar Baria,Male,29,Hyderabad,Telangana,2024-10-30,VIP,High,Active,Cash on Delivery
+C0347,Tara Khanna,Male,45,Hyderabad,Telangana,2023-10-21,Regular,Medium,Active,Credit Card
+C0348,Anya Chhabra,Male,50,Hyderabad,Telangana,2026-04-17,Premium,Low,Active,Net Banking
+C0349,Kiaan Ahluwalia,Male,43,Hyderabad,Telangana,2023-11-23,Regular,High,Active,Cash on Delivery
+C0350,Akarsh Ravel,Male,42,Hyderabad,Telangana,2025-03-26,Regular,Low,Active,UPI
+C0351,Prisha Krishnamurthy,Female,20,Hyderabad,Telangana,2026-05-04,Premium,Low,Active,Net Banking
+C0352,Anvi Dash,Male,19,Bengaluru,Karnataka,2024-11-12,Premium,Medium,Active,Debit Card
+C0353,Anahita Sabharwal,Female,44,Chennai,Tamil Nadu,2025-08-07,VIP,High,Active,Credit Card
+C0354,Jiya Dugar,Female,52,Bengaluru,Karnataka,2026-05-04,Regular,High,Active,Cash on Delivery
+C0355,Amani Wadhwa,Male,43,Chennai,Tamil Nadu,2025-08-23,Regular,Medium,Active,Cash on Delivery
+C0356,Ela Tiwari,Female,35,Bengaluru,Karnataka,2024-04-06,VIP,High,Active,Debit Card
+C0357,Rati Bobal,Female,54,Bengaluru,Karnataka,2025-05-28,Premium,Medium,Active,Debit Card
+C0358,Drishya Varghese,Male,41,Bengaluru,Karnataka,2023-09-26,Regular,High,Active,Debit Card
+C0359,Jivin Dora,Female,34,Bengaluru,Karnataka,2024-12-23,Regular,Low,Active,Debit Card
+C0360,Zoya Shere,Female,35,Mumbai,Maharashtra,2024-09-18,VIP,High,Active,Net Banking
+C0361,Amani Samra,Male,27,Chennai,Tamil Nadu,2024-09-01,Premium,Medium,Active,Credit Card
+C0362,Dhruv Chada,Male,30,Mumbai,Maharashtra,2024-03-22,Premium,Medium,Active,UPI
+C0363,Samarth Solanki,Female,33,Bengaluru,Karnataka,2024-02-09,Regular,Low,Active,Net Banking
+C0364,Farhan Bhatt,Female,43,Bengaluru,Karnataka,2024-04-11,VIP,Medium,Active,Credit Card
+C0365,Alia Iyengar,Male,27,Hyderabad,Telangana,2024-05-18,Regular,Low,Active,UPI
+C0366,Mannat Das,Female,42,Hyderabad,Telangana,2025-12-23,Premium,Medium,Active,Cash on Delivery
+C0367,Inaaya  Solanki,Male,52,Bengaluru,Karnataka,2024-08-21,Premium,Medium,Active,Net Banking
+C0368,Jayant Shanker,Male,42,Hyderabad,Telangana,2025-04-15,Premium,Medium,Active,Credit Card
+C0369,Inaaya  Varghese,Male,60,Mumbai,Maharashtra,2024-11-21,Premium,Medium,Active,Cash on Delivery
+C0370,Nehmat Gola,Male,32,Mumbai,Maharashtra,2024-06-30,Premium,Low,Active,Debit Card
+C0371,Tarini Bhatti,Female,49,Bengaluru,Karnataka,2024-08-09,Regular,Low,Active,Net Banking
+C0372,Uthkarsh Rama,Male,50,Mumbai,Maharashtra,2025-09-24,Regular,Low,Active,Debit Card
+C0373,Emir Sahota,Female,19,Bengaluru,Karnataka,2025-04-17,Regular,High,Active,Debit Card
+C0374,Anay Ray,Female,46,Hyderabad,Telangana,2024-06-17,Regular,High,Active,Debit Card
+C0375,Misha Reddy,Male,38,Hyderabad,Telangana,2026-03-12,Premium,Medium,Active,Credit Card
+C0376,Biju Chaudhuri,Male,25,Bengaluru,Karnataka,2023-12-08,Premium,Medium,Active,Cash on Delivery
+C0377,Tushar Bassi,Male,50,Bengaluru,Karnataka,2026-01-10,Regular,Medium,Active,Net Banking
+C0378,Veer Issac,Male,31,Chennai,Tamil Nadu,2025-06-26,Regular,Medium,Active,Cash on Delivery
+C0379,Purab Khatri,Female,18,Bengaluru,Karnataka,2025-12-03,Regular,Medium,Active,UPI
+C0380,Badal Saraf,Female,60,Bengaluru,Karnataka,2025-12-14,Regular,High,Active,Cash on Delivery
+C0381,Anahi Madan,Female,20,Bengaluru,Karnataka,2023-10-28,Regular,Medium,Active,Credit Card
+C0382,Keya Kurian,Female,35,Bengaluru,Karnataka,2025-09-08,Regular,High,Active,Cash on Delivery
+C0383,Samar Saha,Female,49,Chennai,Tamil Nadu,2025-03-31,Premium,Low,Active,UPI
+C0384,Armaan Kari,Male,53,Bengaluru,Karnataka,2024-07-24,Regular,High,Active,UPI
+C0385,Aaina Mangal,Male,49,Chennai,Tamil Nadu,2023-07-21,Regular,High,Active,Credit Card
+C0386,Hridaan Chahal,Female,33,Chennai,Tamil Nadu,2024-01-24,Regular,Medium,Active,UPI
+C0387,Trisha Bhattacharyya,Male,45,Hyderabad,Telangana,2025-08-28,Premium,Low,Active,Cash on Delivery
+C0388,Jayant Sharma,Male,56,Bengaluru,Karnataka,2024-12-15,Regular,Medium,Active,Net Banking
+C0389,Nehmat Tiwari,Female,51,Bengaluru,Karnataka,2025-12-07,VIP,High,Active,Debit Card
+C0390,Parinaaz Shan,Male,41,Bengaluru,Karnataka,2025-09-27,Regular,Medium,Active,Net Banking
+C0391,Miraya Dhar,Female,21,Hyderabad,Telangana,2025-02-28,Regular,Medium,Active,Cash on Delivery
+C0392,Badal Ghosh,Male,27,Hyderabad,Telangana,2023-08-30,Premium,Medium,Active,Debit Card
+C0393,Heer Ramakrishnan,Male,55,Chennai,Tamil Nadu,2025-09-20,Regular,Medium,Active,Net Banking
+C0394,Inaaya  Sethi,Female,23,Hyderabad,Telangana,2023-07-18,Regular,Medium,Active,Cash on Delivery
+C0395,Armaan Kata,Female,35,Mumbai,Maharashtra,2025-08-12,Regular,Medium,Active,Debit Card
+C0396,Pihu Srinivas,Male,53,Chennai,Tamil Nadu,2024-06-06,Regular,Medium,Active,Cash on Delivery
+C0397,Raunak Brar,Female,37,Hyderabad,Telangana,2024-08-28,Premium,Medium,Active,Net Banking
+C0398,Neysa Kant,Male,56,Mumbai,Maharashtra,2025-12-08,Premium,Low,Active,Net Banking
+C0399,Darshit Dalal,Male,56,Mumbai,Maharashtra,2024-03-03,Regular,Medium,Active,Debit Card
+C0400,Ela Krish,Female,51,Chennai,Tamil Nadu,2024-06-02,Premium,Low,Active,UPI
+C0401,Biju Gill,Male,54,Hyderabad,Telangana,2023-12-21,Regular,Medium,Active,Net Banking
+C0402,Shaan Sachdeva,Male,39,Hyderabad,Telangana,2025-06-18,Regular,Low,Active,Debit Card
+C0403,Ishaan Bora,Male,58,Mumbai,Maharashtra,2023-07-13,Regular,Low,Active,Debit Card
+C0404,Mohanlal Shenoy,Female,58,Hyderabad,Telangana,2024-04-08,Premium,High,Active,UPI
+C0405,Fateh Saran,Female,50,Chennai,Tamil Nadu,2024-07-18,Regular,Medium,Active,Net Banking
+C0406,Shray Bali,Male,38,Hyderabad,Telangana,2025-09-16,Regular,Medium,Active,Debit Card
+C0407,Shalv Bhardwaj,Male,55,Bengaluru,Karnataka,2024-07-27,Regular,High,Active,Credit Card
+C0408,Anvi Ramesh,Female,38,Hyderabad,Telangana,2023-10-21,Premium,Medium,Active,Net Banking
+C0409,Khushi Behl,Female,39,Chennai,Tamil Nadu,2023-10-01,Regular,Medium,Active,Debit Card
+C0410,Mahika Sangha,Male,22,Mumbai,Maharashtra,2024-03-10,VIP,High,Active,Credit Card
+C0411,Mishti Kapadia,Female,53,Mumbai,Maharashtra,2026-01-22,Regular,Medium,Active,Debit Card
+C0412,Armaan Chawla,Male,28,Hyderabad,Telangana,2025-01-26,Regular,Medium,Active,Debit Card
+C0413,Dharmajan Agarwal,Male,26,Chennai,Tamil Nadu,2023-08-19,Regular,Medium,Active,Debit Card
+C0414,Alisha Sanghvi,Male,31,Mumbai,Maharashtra,2023-12-30,Premium,Medium,Active,UPI
+C0415,Madhav Krishnan,Female,21,Mumbai,Maharashtra,2024-02-21,Regular,High,Active,Net Banking
+C0416,Bhavin Aggarwal,Male,52,Mumbai,Maharashtra,2026-03-03,Regular,High,Active,UPI
+C0417,Aaryahi Desai,Female,36,Mumbai,Maharashtra,2024-12-08,Regular,Low,Active,Net Banking
+C0418,Hazel Mallick,Male,46,Bengaluru,Karnataka,2026-05-20,Regular,Low,Active,Debit Card
+C0419,Neysa Shankar,Male,38,Hyderabad,Telangana,2024-06-18,Premium,Low,Active,Cash on Delivery
+C0420,Nakul Shroff,Male,55,Bengaluru,Karnataka,2024-05-05,Regular,Low,Active,Net Banking
+C0421,Kartik Walla,Male,30,Chennai,Tamil Nadu,2023-07-08,Premium,Medium,Active,Credit Card
+C0422,Anahi Karan,Male,55,Hyderabad,Telangana,2025-01-09,Regular,Low,Active,Net Banking
+C0423,Kiaan Kata,Female,47,Hyderabad,Telangana,2025-01-04,Premium,Medium,Active,Credit Card
+C0424,Nishith Bava,Female,47,Hyderabad,Telangana,2024-04-10,Premium,Medium,Active,Debit Card
+C0425,Rohan Loke,Male,58,Mumbai,Maharashtra,2024-04-20,Regular,Low,Active,UPI
+C0426,Inaaya  Thaker,Female,20,Hyderabad,Telangana,2024-09-23,Premium,Medium,Active,Credit Card
+C0427,Rasha Tank,Male,18,Mumbai,Maharashtra,2026-03-28,Regular,Medium,Active,Credit Card
+C0428,Neysa Bala,Male,20,Hyderabad,Telangana,2023-10-02,Regular,Medium,Active,Net Banking
+C0429,Romil Raja,Male,46,Bengaluru,Karnataka,2024-04-28,VIP,High,Active,Debit Card
+C0430,Akarsh Sodhi,Female,50,Bengaluru,Karnataka,2024-08-08,Regular,High,Active,Debit Card
+C0431,Anay Garg,Female,59,Mumbai,Maharashtra,2024-05-02,Regular,Low,Active,UPI
+C0432,Ryan Rau,Male,30,Bengaluru,Karnataka,2024-03-08,VIP,High,Active,Net Banking
+C0433,Diya D’Alia,Female,57,Mumbai,Maharashtra,2024-01-18,Regular,Medium,Active,Cash on Delivery
+C0434,Sumer Wagle,Male,49,Mumbai,Maharashtra,2024-10-24,VIP,High,Active,UPI
+C0435,Romil Saxena,Female,55,Hyderabad,Telangana,2026-02-28,Regular,Medium,Active,Debit Card
+C0436,Samiha Salvi,Male,59,Mumbai,Maharashtra,2025-12-04,Regular,Medium,Active,Cash on Delivery
+C0437,Ishaan Rajagopal,Female,56,Bengaluru,Karnataka,2025-01-02,VIP,High,Active,Net Banking
+C0438,Pari Dhar,Female,56,Chennai,Tamil Nadu,2023-07-30,Premium,Medium,Active,Cash on Delivery
+C0439,Fateh Bhatnagar,Female,51,Bengaluru,Karnataka,2023-06-28,Regular,Medium,Active,Debit Card
+C0440,Kashvi Chaudry,Female,34,Chennai,Tamil Nadu,2024-02-08,Regular,Medium,Active,Debit Card
+C0441,Sumer Edwin,Male,47,Hyderabad,Telangana,2026-02-06,Regular,Medium,Active,Cash on Delivery
+C0442,Renee Deep,Male,50,Mumbai,Maharashtra,2024-02-12,Regular,Medium,Active,Cash on Delivery
+C0443,Kiara Das,Female,39,Bengaluru,Karnataka,2024-10-24,Premium,Medium,Active,Credit Card
+C0444,Zoya Zachariah,Female,21,Chennai,Tamil Nadu,2023-08-27,Regular,Low,Active,UPI
+C0445,Nirvaan Kala,Male,34,Mumbai,Maharashtra,2025-02-24,Regular,Medium,Active,Net Banking
+C0446,Ryan Dani,Female,42,Hyderabad,Telangana,2025-04-09,Regular,Low,Active,UPI
+C0447,Anaya Upadhyay,Female,37,Mumbai,Maharashtra,2026-02-11,Regular,High,Active,Net Banking
+C0448,Jayan Yadav,Male,23,Hyderabad,Telangana,2023-12-01,Regular,Medium,Active,Debit Card
+C0449,Shlok Madan,Male,26,Hyderabad,Telangana,2025-08-31,Regular,Medium,Active,Debit Card
+C0450,Darshit Lal,Female,32,Chennai,Tamil Nadu,2026-02-25,Regular,Low,Active,UPI
+C0451,Arhaan Sarna,Female,37,Bengaluru,Karnataka,2026-03-12,Regular,Medium,Active,Debit Card
+C0452,Uthkarsh Bath,Female,51,Chennai,Tamil Nadu,2026-03-06,Regular,Medium,Active,Cash on Delivery
+C0453,Zain Ratti,Male,44,Hyderabad,Telangana,2025-08-13,Regular,Low,Active,Credit Card
+C0454,Adah Bhandari,Male,58,Hyderabad,Telangana,2024-10-31,Regular,Medium,Active,Credit Card
+C0455,Dhanuk Saxena,Female,42,Bengaluru,Karnataka,2023-05-27,Regular,Medium,Active,Credit Card
+C0456,Tiya Vala,Female,41,Bengaluru,Karnataka,2025-03-21,Regular,Low,Active,UPI
+C0457,Lagan Keer,Female,49,Mumbai,Maharashtra,2024-08-18,Regular,Low,Active,Credit Card
+C0458,Aarav Sampath,Male,41,Bengaluru,Karnataka,2024-08-05,Premium,Medium,Active,Cash on Delivery
+C0459,Lakshay Kulkarni,Female,38,Mumbai,Maharashtra,2023-10-03,Regular,Medium,Active,Net Banking
+C0460,Mohanlal Date,Female,53,Hyderabad,Telangana,2024-11-13,VIP,High,Active,Debit Card
+C0461,Vritika Sangha,Male,37,Chennai,Tamil Nadu,2024-06-27,VIP,Medium,Active,UPI
+C0462,Zaina Sanghvi,Male,50,Chennai,Tamil Nadu,2025-11-11,Regular,Medium,Active,Credit Card
+C0463,Purab Karan,Female,41,Mumbai,Maharashtra,2023-07-26,VIP,High,Active,Credit Card
+C0464,Seher Apte,Male,56,Hyderabad,Telangana,2025-09-26,Premium,Medium,Active,Net Banking
+C0465,Vanya Barman,Male,36,Bengaluru,Karnataka,2026-02-02,Premium,Low,Active,UPI
+C0466,Vardaniya Basak,Male,18,Hyderabad,Telangana,2023-12-07,Regular,Medium,Active,UPI
+C0467,Charvi Iyengar,Male,22,Chennai,Tamil Nadu,2023-09-24,Regular,Low,Active,UPI
+C0468,Adah Banerjee,Male,52,Hyderabad,Telangana,2025-05-05,Premium,Low,Active,Debit Card
+C0469,Inaaya  Reddy,Male,57,Mumbai,Maharashtra,2025-05-28,Regular,High,Active,UPI
+C0470,Divit Kalita,Female,30,Bengaluru,Karnataka,2024-06-23,Regular,Medium,Active,Debit Card
+C0471,Sara Mammen,Female,32,Mumbai,Maharashtra,2024-06-21,Regular,Medium,Active,Credit Card
+C0472,Anahi Vala,Female,21,Bengaluru,Karnataka,2025-06-15,Regular,High,Active,Credit Card
+C0473,Taimur Loke,Male,39,Chennai,Tamil Nadu,2024-01-22,VIP,High,Active,Debit Card
+C0474,Anya Mani,Male,19,Chennai,Tamil Nadu,2024-06-06,Regular,Medium,Active,Net Banking
+C0475,Taran Bail,Male,29,Bengaluru,Karnataka,2024-03-02,Regular,High,Active,Credit Card
+C0476,Kimaya Som,Male,37,Bengaluru,Karnataka,2026-04-05,Regular,Medium,Active,UPI
+C0477,Khushi Garde,Female,27,Hyderabad,Telangana,2024-03-17,Regular,Medium,Active,UPI
+C0478,Sara Toor,Male,32,Chennai,Tamil Nadu,2026-03-27,Regular,High,Active,UPI
+C0479,Damini Balasubramanian,Female,21,Mumbai,Maharashtra,2024-03-15,Premium,Medium,Active,Net Banking
+C0480,Tarini Barman,Female,30,Hyderabad,Telangana,2024-05-10,Regular,Low,Active,Credit Card
+C0481,Diya Varkey,Male,21,Bengaluru,Karnataka,2025-04-10,Regular,Medium,Active,Credit Card
+C0482,Anaya Jaggi,Male,23,Hyderabad,Telangana,2025-12-25,Regular,Medium,Active,Credit Card
+C0483,Mehul Kade,Female,51,Mumbai,Maharashtra,2023-05-24,Premium,Medium,Active,Cash on Delivery
+C0484,Divit Barad,Male,34,Bengaluru,Karnataka,2025-02-01,Premium,Medium,Active,Credit Card
+C0485,Devansh Srinivas,Female,40,Mumbai,Maharashtra,2024-05-10,Regular,Low,Active,Cash on Delivery
+C0486,Shamik Khanna,Female,23,Chennai,Tamil Nadu,2026-04-23,Regular,Medium,Active,Cash on Delivery
+C0487,Gokul Barman,Female,39,Bengaluru,Karnataka,2025-04-27,Regular,Medium,Active,Credit Card
+C0488,Shray Sani,Male,22,Hyderabad,Telangana,2025-06-12,Regular,Medium,Active,Cash on Delivery
+C0489,Dhanuk Basak,Female,39,Mumbai,Maharashtra,2023-09-03,Regular,High,Active,Debit Card
+C0490,Mehul Atwal,Female,41,Chennai,Tamil Nadu,2026-02-01,Regular,Low,Active,Debit Card
+C0491,Ivana Yohannan,Female,48,Mumbai,Maharashtra,2023-08-03,Premium,Medium,Active,Net Banking
+C0492,Charvi Kashyap,Female,26,Hyderabad,Telangana,2025-02-21,Premium,High,Active,Debit Card
+C0493,Arhaan Sarkar,Female,54,Bengaluru,Karnataka,2025-04-14,Regular,Low,Active,Credit Card
+C0494,Miraya Gandhi,Male,47,Bengaluru,Karnataka,2025-08-12,Regular,Medium,Active,Credit Card
+C0495,Prerak Rajagopalan,Male,23,Bengaluru,Karnataka,2023-07-15,Premium,Low,Active,Net Banking
+C0496,Anika Keer,Male,40,Mumbai,Maharashtra,2026-03-04,Regular,Low,Active,Debit Card
+C0497,Tiya Kala,Female,48,Bengaluru,Karnataka,2023-08-24,Premium,High,Active,Debit Card
+C0498,Zaina Borah,Female,27,Hyderabad,Telangana,2025-07-23,Regular,Medium,Active,Net Banking
+C0499,Kaira Brahmbhatt,Female,24,Mumbai,Maharashtra,2024-09-24,Regular,High,Active,Credit Card
+C0500,Seher Bath,Male,29,Mumbai,Maharashtra,2023-08-15,VIP,High,Active,Cash on Delivery
