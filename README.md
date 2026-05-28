@@ -123,8 +123,14 @@ Dashboard includes:
 ### Revenue KPI
 
 ![Revenue KPI](Screenshot 2026-05-27 071345.png)
-
 ### Orders KPI
+
+
+
+
+
+
+
 
 ![Orders KPI](Images/Orders_KPI.png)
 
